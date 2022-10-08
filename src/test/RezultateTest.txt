@@ -1,0 +1,500 @@
+ Test I
+ 0  1  0  0  0 
+ 0  0  0  1  0 
+ 1  0  0  0  0 
+ 0  0  1  0  0 
+ 0  0  0  0  1 
+Test 0,    Patratele = 5x5,    Arcasi = 5,    Lung.sageata = 5    Nr.ziduri = 0,    Noduri DFS - 45,    Timp DFS [nanosec] = 6450097
+ 1  0  0  0  0 
+ 0  0  1  0  0 
+ 0  0  0  0  1 
+ 0  1  0  0  0 
+ 0  0  0  1  0 
+Test 0,   Patratele = 5x5,    Arcasi = 5,    Lung.sageata = 5    Nr.ziduri = 0,    Noduri BFS - 1295,    Timp BFS [nanosec] = 69308968
+ 0  0  0  1  0 
+ 0  0  0  2  0 
+ 1  0  0  0  0 
+ 0  0  1  0  0 
+ 0  0  0  0  1 
+Test 1,    Patratele = 5x5,    Arcasi = 4,    Lung.sageata = 5    Nr.ziduri = 1,    Noduri DFS - 40,    Timp DFS [nanosec] = 1093262
+ 1  0  0  0  0 
+ 0  0  1  2  1 
+ 0  0  0  0  0 
+ 0  1  0  0  0 
+ 0  0  0  0  0 
+Test 1,   Patratele = 5x5,    Arcasi = 4,    Lung.sageata = 5    Nr.ziduri = 1,    Noduri BFS - 1408,    Timp BFS [nanosec] = 30373317
+ 0  1  0  0 
+ 0  0  0  1 
+ 1  0  0  0 
+ 0  0  1  0 
+Test 2,    Patratele = 4x4,    Arcasi = 4,    Lung.sageata = 4    Nr.ziduri = 0,    Noduri DFS - 40,    Timp DFS [nanosec] = 1703181
+ 0  1  0  0 
+ 0  0  0  1 
+ 1  0  0  0 
+ 0  0  1  0 
+Test 2,   Patratele = 4x4,    Arcasi = 4,    Lung.sageata = 4    Nr.ziduri = 0,    Noduri BFS - 184,    Timp BFS [nanosec] = 7713432
+ 0  0  0  0 
+ 0  0  0  1 
+ 1  0  0  0 
+ 0  0  1  2 
+Test 3,    Patratele = 4x4,    Arcasi = 3,    Lung.sageata = 4    Nr.ziduri = 1,    Noduri DFS - 24,    Timp DFS [nanosec] = 498003
+ 1  0  0  0 
+ 0  0  1  0 
+ 0  0  0  0 
+ 0  1  0  2 
+Test 3,   Patratele = 4x4,    Arcasi = 3,    Lung.sageata = 4    Nr.ziduri = 1,    Noduri BFS - 151,    Timp BFS [nanosec] = 2795954
+ 0  1  0  0  0 
+ 0  0  0  1  0 
+ 1  0  0  0  0 
+ 0  0  1  0  0 
+ 0  0  0  0  1 
+Test 4,    Patratele = 5x5,    Arcasi = 5,    Lung.sageata = 5    Nr.ziduri = 0,    Noduri DFS - 45,    Timp DFS [nanosec] = 847925
+ 1  0  0  0  0 
+ 0  0  1  0  0 
+ 0  0  0  0  1 
+ 0  1  0  0  0 
+ 0  0  0  1  0 
+Test 4,   Patratele = 5x5,    Arcasi = 5,    Lung.sageata = 5    Nr.ziduri = 0,    Noduri BFS - 1295,    Timp BFS [nanosec] = 38567158
+ 0  0  1  0 
+ 0  0  0  0 
+ 0  0  0  0 
+ 1  2  0  1 
+Test 5,    Patratele = 4x4,    Arcasi = 3,    Lung.sageata = 4    Nr.ziduri = 1,    Noduri DFS - 24,    Timp DFS [nanosec] = 359207
+ 1  0  0  0 
+ 0  0  0  1 
+ 0  1  0  0 
+ 0  2  0  0 
+Test 5,   Patratele = 4x4,    Arcasi = 3,    Lung.sageata = 4    Nr.ziduri = 1,    Noduri BFS - 164,    Timp BFS [nanosec] = 2828210
+ 0  1  0  0  0 
+ 0  0  0  1  0 
+ 1  0  0  0  0 
+ 0  0  1  0  0 
+ 0  0  0  0  1 
+Test 6,    Patratele = 5x5,    Arcasi = 5,    Lung.sageata = 5    Nr.ziduri = 0,    Noduri DFS - 45,    Timp DFS [nanosec] = 774129
+ 1  0  0  0  0 
+ 0  0  1  0  0 
+ 0  0  0  0  1 
+ 0  1  0  0  0 
+ 0  0  0  1  0 
+Test 6,   Patratele = 5x5,    Arcasi = 5,    Lung.sageata = 5    Nr.ziduri = 0,    Noduri BFS - 1295,    Timp BFS [nanosec] = 29197462
+ 0  0  1  0 
+ 0  0  0  0 
+ 0  1  2  0 
+ 0  0  0  1 
+Test 7,    Patratele = 4x4,    Arcasi = 3,    Lung.sageata = 4    Nr.ziduri = 1,    Noduri DFS - 25,    Timp DFS [nanosec] = 772663
+ 1  0  0  0 
+ 0  0  1  0 
+ 0  0  2  0 
+ 0  1  0  0 
+Test 7,   Patratele = 4x4,    Arcasi = 3,    Lung.sageata = 4    Nr.ziduri = 1,    Noduri BFS - 196,    Timp BFS [nanosec] = 6640207
+ 0  1  0  0 
+ 0  0  0  1 
+ 1  0  0  0 
+ 0  0  1  0 
+Test 8,    Patratele = 4x4,    Arcasi = 4,    Lung.sageata = 4    Nr.ziduri = 0,    Noduri DFS - 40,    Timp DFS [nanosec] = 2318966
+ 0  1  0  0 
+ 0  0  0  1 
+ 1  0  0  0 
+ 0  0  1  0 
+Test 8,   Patratele = 4x4,    Arcasi = 4,    Lung.sageata = 4    Nr.ziduri = 0,    Noduri BFS - 184,    Timp BFS [nanosec] = 9274396
+Test 9,   Nu exista solutie
+Patratele = 5x5,    Arcasi = 6,    Lung.sageata = 5    Nr.ziduri = 2,    Noduri DFS - 1640,   Timp DFS [nanosec] = 48545308
+Test 9,   Nu exista solutie
+Patratele = 5x5,    Arcasi = 6,    Lung.sageata = 5    Nr.ziduri = 2,    Noduri BFS - 1640,    Timp BFS [nanosec] = 19254011
+
+
+
+Test II
+ 1  0  0  0  0  0 
+ 0  0  1  0  0  0 
+ 0  0  2  0  1  0 
+ 0  1  0  0  0  0 
+ 0  0  0  1  0  0 
+ 0  0  0  0  0  1 
+Test 0,    Patratele = 6x6,    Arcasi = 6,    Lung.sageata = 6    Nr.ziduri = 0,    Noduri DFS - 77,    Timp DFS [nanosec] = 356764
+ 1  0  0  0  0  0 
+ 0  0  1  0  0  0 
+ 0  0  2  0  1  0 
+ 0  1  0  0  0  0 
+ 0  0  0  1  0  0 
+ 0  0  0  0  0  1 
+Test 0,   Patratele = 6x6,    Arcasi = 6,    Lung.sageata = 6    Nr.ziduri = 0,    Noduri BFS - 11965,    Timp BFS [nanosec] = 190321826
+ 0  0  0  0  0  0  0 
+ 0  0  2  0  0  0  0 
+ 0  0  0  1  0  0  0 
+ 1  0  2  0  0  1  0 
+ 0  0  1  0  0  0  0 
+ 0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  1 
+Test 1,    Patratele = 7x7,    Arcasi = 6,    Lung.sageata = 7    Nr.ziduri = 1,    Noduri DFS - 112,    Timp DFS [nanosec] = 793678
+ 1  0  0  0  0  0  0 
+ 0  0  2  1  0  0  0 
+ 0  1  0  0  0  0  0 
+ 0  0  2  0  1  0  0 
+ 0  0  1  0  0  0  0 
+ 0  0  0  0  0  0  0 
+ 0  0  0  0  0  1  0 
+Test 1,   Patratele = 7x7,    Arcasi = 6,    Lung.sageata = 7    Nr.ziduri = 1,    Noduri BFS - 110295,    Timp BFS [nanosec] = 2037507618
+ 0  0  0  1  0  0 
+ 0  1  0  2  0  0 
+ 0  0  0  1  0  0 
+ 0  0  0  0  0  1 
+ 0  0  1  0  0  0 
+ 0  0  0  0  1  0 
+Test 2,    Patratele = 6x6,    Arcasi = 6,    Lung.sageata = 6    Nr.ziduri = 0,    Noduri DFS - 749,    Timp DFS [nanosec] = 7385502
+ 1  0  0  0  0  0 
+ 0  0  1  2  1  0 
+ 0  0  0  0  0  0 
+ 0  0  0  0  0  1 
+ 0  0  0  1  0  0 
+ 0  1  0  0  0  0 
+Test 2,   Patratele = 6x6,    Arcasi = 6,    Lung.sageata = 6    Nr.ziduri = 0,    Noduri BFS - 10907,    Timp BFS [nanosec] = 96990428
+ 0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0 
+ 0  0  0  1  0  0  0 
+ 1  0  0  2  0  1  0 
+ 0  0  1  0  0  0  0 
+ 0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  1 
+Test 3,    Patratele = 7x7,    Arcasi = 6,    Lung.sageata = 7    Nr.ziduri = 1,    Noduri DFS - 120,    Timp DFS [nanosec] = 352854
+ 1  0  0  0  0  0  0 
+ 0  0  1  0  0  0  0 
+ 0  0  0  0  1  0  0 
+ 0  1  0  2  0  0  1 
+ 0  0  0  1  0  0  0 
+ 0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0 
+Test 3,   Patratele = 7x7,    Arcasi = 6,    Lung.sageata = 7    Nr.ziduri = 1,    Noduri BFS - 102976,    Timp BFS [nanosec] = 1641541200
+ 1  0  0  0  0  0 
+ 0  0  1  0  0  0 
+ 0  0  0  0  1  0 
+ 0  1  0  2  0  0 
+ 0  0  0  1  0  0 
+ 0  0  0  0  0  1 
+Test 4,    Patratele = 6x6,    Arcasi = 6,    Lung.sageata = 6    Nr.ziduri = 0,    Noduri DFS - 84,    Timp DFS [nanosec] = 300561
+ 1  0  0  0  0  0 
+ 0  0  1  0  0  0 
+ 0  0  0  0  1  0 
+ 0  1  0  2  0  0 
+ 0  0  0  1  0  0 
+ 0  0  0  0  0  1 
+Test 4,   Patratele = 6x6,    Arcasi = 6,    Lung.sageata = 6    Nr.ziduri = 0,    Noduri BFS - 11965,    Timp BFS [nanosec] = 82914380
+ 0  0  0  1  0  0  0 
+ 0  2  0  2  0  0  0 
+ 0  0  0  1  0  0  0 
+ 0  0  0  0  0  1  0 
+ 0  0  1  0  0  0  0 
+ 0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  1 
+Test 5,    Patratele = 7x7,    Arcasi = 6,    Lung.sageata = 7    Nr.ziduri = 1,    Noduri DFS - 107,    Timp DFS [nanosec] = 300561
+ 1  0  0  0  0  0  0 
+ 0  2  1  2  1  0  0 
+ 0  0  0  0  0  0  1 
+ 0  1  0  0  0  0  0 
+ 0  0  0  1  0  0  0 
+ 0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0 
+Test 5,   Patratele = 7x7,    Arcasi = 6,    Lung.sageata = 7    Nr.ziduri = 1,    Noduri BFS - 90251,    Timp BFS [nanosec] = 1345130001
+ 0  0  0  0  0  0  0 
+ 0  1  0  0  0  0  0 
+ 0  0  0  1  0  0  0 
+ 1  0  0  2  0  1  0 
+ 0  0  1  0  0  0  0 
+ 0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  1 
+Test 6,    Patratele = 7x7,    Arcasi = 7,    Lung.sageata = 7    Nr.ziduri = 0,    Noduri DFS - 121,    Timp DFS [nanosec] = 407102
+ 1  0  0  0  0  0  0 
+ 0  0  1  0  0  0  0 
+ 0  0  0  0  1  0  0 
+ 0  1  0  2  0  0  1 
+ 0  0  0  1  0  0  0 
+ 0  0  0  0  0  1  0 
+ 0  0  0  0  0  0  0 
+Test 6,   Patratele = 7x7,    Arcasi = 7,    Lung.sageata = 7    Nr.ziduri = 0,    Noduri BFS - 104096,    Timp BFS [nanosec] = 1697136261
+ 0  0  0  0  0  0 
+ 0  2  1  0  0  0 
+ 0  0  0  0  1  0 
+ 0  1  0  0  0  0 
+ 0  0  0  1  0  0 
+ 0  0  0  0  0  1 
+Test 7,    Patratele = 6x6,    Arcasi = 5,    Lung.sageata = 6    Nr.ziduri = 1,    Noduri DFS - 75,    Timp DFS [nanosec] = 231653
+ 1  0  0  0  0  0 
+ 0  2  1  0  0  0 
+ 0  0  0  0  1  0 
+ 0  1  0  0  0  0 
+ 0  0  0  1  0  0 
+ 0  0  0  0  0  0 
+Test 7,   Patratele = 6x6,    Arcasi = 5,    Lung.sageata = 6    Nr.ziduri = 1,    Noduri BFS - 10540,    Timp BFS [nanosec] = 61750949
+ 1  0  0  0  0  0 
+ 0  2  1  0  0  0 
+ 0  0  0  0  1  0 
+ 0  1  0  0  0  0 
+ 0  0  0  1  0  0 
+ 0  0  0  0  0  1 
+Test 8,    Patratele = 6x6,    Arcasi = 6,    Lung.sageata = 6    Nr.ziduri = 0,    Noduri DFS - 76,    Timp DFS [nanosec] = 204773
+ 1  0  0  0  0  0 
+ 0  2  1  0  0  0 
+ 0  0  0  0  1  0 
+ 0  1  0  0  0  0 
+ 0  0  0  1  0  0 
+ 0  0  0  0  0  1 
+Test 8,   Patratele = 6x6,    Arcasi = 6,    Lung.sageata = 6    Nr.ziduri = 0,    Noduri BFS - 10708,    Timp BFS [nanosec] = 83357159
+ 0  0  0  1  0  0  0 
+ 0  1  2  0  0  0  1 
+ 0  2  0  0  1  0  0 
+ 0  1  0  0  0  0  0 
+ 0  0  0  0  0  1  0 
+ 1  0  0  0  0  0  0 
+ 0  0  1  0  0  0  0 
+Test 9,    Patratele = 7x7,    Arcasi = 8,    Lung.sageata = 7    Nr.ziduri = 3,    Noduri DFS - 34399,    Timp DFS [nanosec] = 313403914
+ 0  0  0  1  0  0  0 
+ 0  1  2  0  0  0  1 
+ 0  2  0  0  1  0  0 
+ 0  1  0  0  0  0  0 
+ 0  0  0  0  0  1  0 
+ 1  0  0  0  0  0  0 
+ 0  0  1  0  0  0  0 
+Test 9,   Patratele = 7x7,    Arcasi = 8,    Lung.sageata = 7    Nr.ziduri = 3,    Noduri BFS - 109804,    Timp BFS [nanosec] = 1760651480
+
+
+
+Test III
+ 0  0  0  0  0  0  0  1 
+ 0  0  0  0  1  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  2  0  0  0 
+ 0  0  0  0  0  0  1  0 
+ 0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  1  0  0 
+ 1  0  0  0  0  0  0  1 
+Test 0,    Patratele = 8x8,    Arcasi = 7,    Lung.sageata = 7    Nr.ziduri = 1,    Noduri DFS - 184,    Timp DFS [nanosec] = 17810339
+ 1  0  0  0  0  0  0  1 
+ 0  0  1  0  0  0  0  0 
+ 0  0  0  0  1  0  0  0 
+ 0  1  0  0  2  0  1  0 
+ 0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+Test 0,   Patratele = 8x8,    Arcasi = 7,    Lung.sageata = 7    Nr.ziduri = 1,    Noduri BFS - 1101069,    Timp BFS [nanosec] = 131419323214
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  1  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  1  0  0  2  0  1  0 
+ 0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  1  0  0 
+ 1  0  0  0  0  0  0  1 
+Test 1,    Patratele = 8x8,    Arcasi = 7,    Lung.sageata = 7    Nr.ziduri = 1,    Noduri DFS - 198,    Timp DFS [nanosec] = 43213886
+ 1  0  0  0  0  0  0  1 
+ 0  0  1  0  0  0  0  0 
+ 0  0  0  0  1  0  0  0 
+ 0  1  0  0  0  0  0  0 
+ 0  0  0  0  2  0  0  0 
+ 0  0  0  0  1  0  0  0 
+ 0  0  0  0  0  0  1  0 
+ 0  0  0  0  0  0  0  0 
+Test 1,   Patratele = 8x8,    Arcasi = 7,    Lung.sageata = 7    Nr.ziduri = 1,    Noduri BFS - 1101069,    Timp BFS [nanosec] = 122175412514
+
+ 0  0  0  1  0  0  0  0  0 
+ 0  0  2  0  0  1  0  0  0 
+ 1  0  0  0  0  0  0  0  0 
+ 0  0  0  0  1  0  0  0  0 
+ 0  1  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  1  0 
+ 0  0  1  0  0  0  0  0  0 
+ 0  0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  0  0  1 
+Test 2,    Patratele = 9x9,    Arcasi = 9,    Lung.sageata = 9    Nr.ziduri = 1,    Noduri DFS - 3565,    Timp DFS [nanosec] = 486319570
+ 0  0  0  1  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0  0 
+ 0  0  0  2  0  0  0  0  0 
+ 0  0  0  1  0  0  0  0  0 
+ 0  0  0  0  0  1  0  0  0 
+ 0  0  1  0  0  2  0  1  0 
+ 0  0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  0  0  1 
+Test 3,    Patratele = 9x9,    Arcasi = 8,    Lung.sageata = 9    Nr.ziduri = 2,    Noduri DFS - 238,    Timp DFS [nanosec] = 5641757
+ 0  0  0  0  0  1  0  0 
+ 0  0  1  0  0  0  0  0 
+ 0  0  0  0  1  2  0  0 
+ 0  0  0  0  0  0  1  0 
+ 1  0  0  0  0  0  0  0 
+ 0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  0  1 
+Test 4,    Patratele = 8x8,    Arcasi = 8,    Lung.sageata = 8    Nr.ziduri = 1,    Noduri DFS - 261,    Timp DFS [nanosec] = 18857172
+ 0  0  0  1  0  0  0  0  0 
+ 0  0  0  2  0  1  0  0  0 
+ 0  0  0  1  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0  0 
+ 1  0  0  0  0  2  0  0  0 
+ 0  0  0  0  0  0  0  1  0 
+ 0  0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  0  0  1 
+Test 5,    Patratele = 9x9,    Arcasi = 8,    Lung.sageata = 9    Nr.ziduri = 2,    Noduri DFS - 229,    Timp DFS [nanosec] = 15176151
+ 0  0  1  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  1  0 
+ 0  0  0  0  0  1  0  0  0 
+ 1  0  0  0  0  2  0  0  0 
+ 0  0  0  0  0  1  0  0  0 
+ 0  1  0  0  0  0  0  0  0 
+ 0  0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  0  0  1 
+Test 6,    Patratele = 9x9,    Arcasi = 9,    Lung.sageata = 9    Nr.ziduri = 1,    Noduri DFS - 616,    Timp DFS [nanosec] = 91816862
+ 0  0  0  0  0  0  1  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  2  0 
+ 0  0  0  0  1  0  0  0 
+ 0  0  0  0  0  0  1  0 
+ 1  2  0  1  0  0  0  0 
+ 0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  0  1 
+Test 7,    Patratele = 8x8,    Arcasi = 7,    Lung.sageata = 8    Nr.ziduri = 2,    Noduri DFS - 157,    Timp DFS [nanosec] = 4959508
+ 0  0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  1  0  0  0 
+ 0  0  0  1  0  2  0  1  0 
+ 0  0  0  0  0  1  0  0  0 
+ 1  0  0  0  0  0  0  0  0 
+ 0  0  1  0  0  0  0  0  0 
+ 0  0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  0  0  1 
+Test 8,    Patratele = 9x9,    Arcasi = 8,    Lung.sageata = 9    Nr.ziduri = 1,    Noduri DFS - 222,    Timp DFS [nanosec] = 8139105
+ 0  0  0  0  1  0  0  0  0 
+ 0  0  1  0  0  0  0  0  0 
+ 1  0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  1  0  0  0 
+ 0  0  0  0  0  0  0  1  0 
+ 0  1  0  0  0  0  0  0  0 
+ 0  2  0  1  0  0  0  0  0 
+ 0  0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  0  0  1 
+Test 9,    Patratele = 9x9,    Arcasi = 9,    Lung.sageata = 9    Nr.ziduri = 1,    Noduri DFS - 2808,    Timp DFS [nanosec] = 125438685
+
+
+
+
+
+Test IV
+ 0  0  0  0  1  0  0  0  0  0  0 
+ 0  0  1  0  0  0  0  0  0  0  0 
+ 1  0  0  0  2  0  0  0  0  1  0 
+ 0  0  0  0  0  0  1  0  0  0  0 
+ 0  0  2  1  0  0  0  0  0  0  0 
+ 0  1  0  0  2  0  0  1  0  0  0 
+ 0  0  0  0  1  0  0  0  0  0  0 
+ 0  0  1  0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  1  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  0  0  0  0  1 
+Test 0,    Patratele = 11x11,    Arcasi = 13,    Lung.sageata = 11    Nr.ziduri = 3,    Noduri DFS - 470004,    Timp DFS [nanosec] = 13774297344
+ 0  0  0  0  1  0  0  0  0  0 
+ 0  1  0  0  0  0  0  0  0  0 
+ 0  0  0  1  0  0  0  0  0  0 
+ 0  0  0  0  0  0  1  0  0  0 
+ 0  0  0  0  0  0  0  0  0  0 
+ 0  0  1  0  0  0  0  0  0  0 
+ 1  0  0  0  0  0  2  0  1  0 
+ 0  0  0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  0  0  0  1 
+Test 1,    Patratele = 10x10,    Arcasi = 10,    Lung.sageata = 10    Nr.ziduri = 1,    Noduri DFS - 1394,    Timp DFS [nanosec] = 649873106
+ 0  0  0  0  0  0  0  0  0  0  0 
+ 0  0  0  1  0  0  0  0  0  0  0 
+ 0  1  0  0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  1  0  0  0 
+ 0  0  0  0  0  1  0  0  0  0  0 
+ 1  0  0  0  0  0  0  0  0  0  0 
+ 0  0  1  0  0  2  0  0  0  1  0 
+ 0  0  0  0  1  0  0  0  0  0  0 
+ 0  0  0  0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  0  0  0  0  1 
+Test 2,    Patratele = 11x11,    Arcasi = 11,    Lung.sageata = 11    Nr.ziduri = 1,    Noduri DFS - 9801,    Timp DFS [nanosec] = 334819013
+ 0  0  0  1  0  0  0  0  0  0  0 
+ 0  1  0  2  0  0  1  0  0  0  0 
+ 0  0  0  1  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  1  0  0  0 
+ 0  0  0  0  0  0  0  0  0  0  1 
+ 0  0  0  0  0  0  0  0  0  0  0 
+ 1  0  0  0  0  0  0  0  0  0  0 
+ 0  0  0  0  1  0  0  2  0  1  0 
+ 0  0  0  0  0  0  0  1  0  0  0 
+ 0  0  0  0  0  1  0  0  0  0  2 
+ 0  0  0  0  0  0  0  0  1  2  1 
+Test 3,    Patratele = 11x11,    Arcasi = 13,    Lung.sageata = 11    Nr.ziduri = 4,    Noduri DFS - 2854578,    Timp DFS [nanosec] = 78423187165 
+ 0  1  0  0  0  0  0  0  0  0  0 
+ 0  0  2  1  0  0  0  0  0  0  0 
+ 0  0  0  0  0  1  0  0  0  0  0 
+ 0  0  0  0  0  0  0  1  0  0  0 
+ 0  0  0  0  0  0  0  0  0  1  0 
+ 1  0  0  0  0  0  0  0  0  0  0 
+ 0  0  1  0  0  0  0  0  0  0  0 
+ 0  0  0  0  1  0  0  0  0  0  0 
+ 0  0  0  0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  0  0  0  0  1 
+Test 4,    Patratele = 11x11,    Arcasi = 11,    Lung.sageata = 11    Nr.ziduri = 1,    Noduri DFS - 5626,    Timp DFS [nanosec] = 149715497
+ 0  0  0  0  0  1  0  0  0  0  0 
+ 0  0  0  1  0  0  0  0  0  0  0 
+ 1  0  0  0  0  2  1  0  0  0  0 
+ 0  0  0  0  0  0  0  0  0  1  0 
+ 0  0  0  0  0  0  2  0  0  0  0 
+ 0  0  0  0  1  0  0  0  0  0  0 
+ 0  1  0  0  2  0  0  1  0  0  0 
+ 0  0  0  0  1  0  0  0  0  0  0 
+ 0  0  1  0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  1  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0  1  2  1 
+Test 5,    Patratele = 11x11,    Arcasi = 13,    Lung.sageata = 11    Nr.ziduri = 4,    Noduri DFS - 2003465,    Timp DFS [nanosec] = 58333191608
+ 0  0  0  0  1  0  0  0  0  0 
+ 0  0  0  0  0  0  1  0  0  0 
+ 0  0  0  1  0  0  2  0  0  0 
+ 1  0  0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  1  0  0  0 
+ 0  0  0  0  0  0  0  0  1  0 
+ 0  0  1  0  0  0  0  0  0  0 
+ 0  0  0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  0  0  0  1 
+Test 6,    Patratele = 10x10,    Arcasi = 10,    Lung.sageata = 10    Nr.ziduri = 1,    Noduri DFS - 2041,    Timp DFS [nanosec] = 282430221
+ 0  1  0  0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  1  0  0  0  0  0 
+ 0  0  0  0  0  0  0  1  0  0  0 
+ 0  0  0  0  0  0  0  0  0  1  0 
+ 1  0  0  0  0  0  0  0  2  0  0 
+ 0  0  1  0  0  0  0  0  0  0  0 
+ 0  0  0  0  1  0  2  0  0  0  0 
+ 0  0  0  0  0  0  1  2  1  0  0 
+ 0  0  0  1  2  0  0  0  0  0  1 
+Test 7,    Patratele = 11x11,    Arcasi = 13,    Lung.sageata = 11    Nr.ziduri = 4,    Noduri DFS - 8519,    Timp DFS [nanosec] = 4401713712
+ 0  0  0  0  0  1  0  0  0  0 
+ 0  0  1  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  1  0  0  0 
+ 0  1  0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  1  0  0 
+ 0  0  0  0  1  0  0  0  0  0 
+ 1  0  2  0  0  2  0  0  1  0 
+ 0  0  0  1  0  0  0  0  0  0 
+ 0  0  0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  0  0  0  0  1 
+Test 8,    Patratele = 10x10,    Arcasi = 11,    Lung.sageata = 10    Nr.ziduri = 2,    Noduri DFS - 544033,    Timp DFS [nanosec] = 12598046331
+ 0  0  0  0  0  0  0  0  0  0  0 
+ 0  2  0  0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  2  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0  0  0  0 
+ 0  0  2  0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  2  0  0  0 
+ 0  0  0  0  0  0  0  0  0  0  0 
+Test 9,    Patratele = 11x11,    Arcasi = 13,    Lung.sageata = 11    Nr.ziduri = 4,    Noduri DFS - 19883802,    Timp DFS [nanosec] = out of memmory (Java heap)
+
